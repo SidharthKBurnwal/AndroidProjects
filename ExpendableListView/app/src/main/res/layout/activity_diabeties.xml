@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <TextView
+        android:id="@+id/txtCancer1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="20dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:theme="@style/AppTheme"
+        android:text="@string/DiabitiesCause"/>
+
+    <TextView
+        android:id="@+id/txtCancer2"
+        android:text=""
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/txtCancer1"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:paddingLeft="5dp"
+        android:paddingTop="5dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Tooltip"
+        android:theme="@style/AppTheme" />
+
+</RelativeLayout>

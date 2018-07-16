@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InfoLine</string>
+    <string name="action_settings">Settings</string>
+    <string name="Cause">About Cancer</string>
+    <string name="DetailCause">Cancer is ultimately the result of cells that uncontrollably grow and do not die. Normal cells in the body follow an orderly path of growth, division, and death. Programmed cell death is called apoptosis, and when this process breaks down, cancer begins to form. Unlike regular cells, cancer cells do not experience programmatic death and instead continue to grow and divide. This leads to mass of abnormal cells that grows out of control.
+</string>
+    <string name="DepressionCause">About Depression</string>
+    <string name="DiabitiesCause">About Diabities</string>
+    <string name="RapeCause">What to DO</string>
+    <string name="AccidentCause">What to DO</string>
+    <string name="HIVCause">What You Must Know HIV</string>
+    <string name="PeriodsCause">What You Must Know</string>
+
+</resources>
